@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-base-reverse/tags). For example,
+
+```javascript
 import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse@v0.1.0-esm/index.mjs';
 ```
 
@@ -76,7 +81,7 @@ out = reverse( 'foo bar' );
 <body>
 <script type="module">
 
-import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse@v0.1.0-esm/index.mjs';
+import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse@esm/index.mjs';
 
 var str = reverse( 'presidential election' );
 // returns 'noitcele laitnediserp'
