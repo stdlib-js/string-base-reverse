@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse@esm/index.mjs';
+import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse@v0.2.0-esm/index.mjs';
 ```
 
 #### reverse( str )
@@ -76,7 +76,7 @@ out = reverse( 'foo bar' );
 <body>
 <script type="module">
 
-import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse@esm/index.mjs';
+import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-reverse@v0.2.0-esm/index.mjs';
 
 var str = reverse( 'presidential election' );
 // returns 'noitcele laitnediserp'
