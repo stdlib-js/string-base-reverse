@@ -52,7 +52,7 @@ No changes reported for this release.
 
 ### Features
 
--   [`de17736`](https://github.com/stdlib-js/stdlib/commit/de1773601713083ef826105a70df23c8750f9559) - refactor `string/reverse` and add `mode` option [(#https://github.com/stdlib-js/stdlib/pull/1082)](https://github.com/stdlib-js/stdlib/pull/https://github.com/stdlib-js/stdlib/pull/1082)
+-   [`de17736`](https://github.com/stdlib-js/stdlib/commit/de1773601713083ef826105a70df23c8750f9559) - refactor `string/reverse` and add `mode` option [(#1082)](https://github.com/stdlib-js/stdlib/pull/1082)
 
 </section>
 
@@ -64,7 +64,7 @@ No changes reported for this release.
 
 <details>
 
--   [`de17736`](https://github.com/stdlib-js/stdlib/commit/de1773601713083ef826105a70df23c8750f9559) - **feat:** refactor `string/reverse` and add `mode` option [(#https://github.com/stdlib-js/stdlib/pull/1082)](https://github.com/stdlib-js/stdlib/pull/https://github.com/stdlib-js/stdlib/pull/1082) _(by Stephannie Jiménez Gacha, Athan Reines)_
+-   [`de17736`](https://github.com/stdlib-js/stdlib/commit/de1773601713083ef826105a70df23c8750f9559) - **feat:** refactor `string/reverse` and add `mode` option [(#1082)](https://github.com/stdlib-js/stdlib/pull/1082) _(by Stephannie Jiménez Gacha, Athan Reines)_
 
 </details>
 
